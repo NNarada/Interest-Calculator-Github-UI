@@ -1,4 +1,10 @@
 # Learning-Github-UI
 
-The purpose of this Github repo is to learn the github UI and get familiar with it.
-This was created for a coursera project.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
